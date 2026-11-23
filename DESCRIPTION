@@ -1,7 +1,7 @@
 Package: GSE280465
 Type: Package
 Title: EPICv2 Methylation ExperimentHub Data from GEO
-Version: 0.99.1
+Version: 1.0.0
 Authors@R: person("Paul", "Ruiz", role = c("aut", "cre"),
             email = "ruizpint@qut.edu.au",
             comment = c(ORCID = "0009-0007-6714-3566"))
